@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "server": "nodemon server",
-    "json": "json-server --watch CA.json --port 5000 --routes routes.json",
+    "json": "json-server --watch CA.json  --routes routes.json",
     "dev": "concurrently \"npm start\" \"npm run json\""
   },
   "eslintConfig": {
