@@ -1,0 +1,54 @@
+.text-x {
+    background: linear-gradient(90.97deg, #0076CE 26.63%, #9400D3 65.81%);
+    background-clip: text;
+    color: transparent;
+    text-align: center;
+}
+
+.formx {
+    z-index: 1000;
+}
+
+.home {
+    background: linear-gradient(180deg, #FAFBFC 12.67%, rgba(250, 251, 252, 0.08) 59%),
+        url(/public/assets/Vector\ 13.png);
+    background-size: fill;
+    background-position: below;
+}
+
+.card {
+    box-shadow: 2px 4px 15px 0px #8585A740;
+    border-radius: 10px;
+    background-color: #ffffff;
+    padding: 1.5rem;
+}
+
+.order-box {
+    position: absolute;
+    background: linear-gradient(95.64deg, #0076CE 0%, #9400D3 100%);
+    border-radius: .8rem;
+    height: 2.5rem;
+    width: 2.5rem;
+    vertical-align: middle;
+    padding-top: .3rem;
+    top: -5%;
+    font-weight: 600;
+    left: -2%;
+    font-size: 1.2rem;
+}
+
+.pink_text {
+    padding: 8px 16px 8px 16px;
+    border-radius: 15px 15px 3px 15px;
+    background-color: #EFD9F9;
+    font-size: .75rem;
+    font-weight: 500;
+}
+
+.blue_text {
+    background-color: #DDF3FF;
+    border-radius: 15px 15px 15px 3px;
+    font-size: .75rem;
+    padding: 8px 16px 8px 16px;
+    font-weight: 500;
+}

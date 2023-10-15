@@ -1,0 +1,3 @@
+{
+    "/getbyname/:name": "/CA?name=:name"
+}
